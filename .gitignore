@@ -1,0 +1,34 @@
+# Large data files (too big for GitHub)
+*.jsonl
+Movies_and_TV.jsonl
+
+# CSV files (large datasets)
+*.csv
+Final_Reviews.csv
+Sampled_500K_Reviews.csv
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Byte-compiled files
+*.pyc
